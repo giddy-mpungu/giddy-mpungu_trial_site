@@ -1,7 +1,7 @@
 ---
-title: Kathryn Schuler
-short_name: katie
-position: PI, Assistant Professor
+title: Gideon Mpungu
+short_name: giddy
+position: Cybersecurity Analyst
 layout: author
 ---
 
