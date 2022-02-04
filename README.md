@@ -1,2 +1,2 @@
-# pennchildlanglab.github.io
-Lab website
+# giddy-mpungu.github.io
+Personal website
