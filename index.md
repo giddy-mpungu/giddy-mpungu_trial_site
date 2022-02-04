@@ -12,5 +12,5 @@ Take a look around and I hope you find it useful. Thanks!
       |  <strong><a href="people#join-our-team">Reach out to me</a></strong></p>
 
   <p align="center">
-      <img src= "images/Gideon_Mpungu.png" width="200" height="200" align="middle"/>
+      <img src= "images/Gideon_Mpungu.jpg" width="200" height="200" align="middle"/>
   </p>
